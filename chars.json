@@ -550,7 +550,7 @@
   },
   {
     "id": 62,
-    "image": "flakppz4w",
+    "image": "flakpz4w",
     "nom": "Flakpanzer IV Wirbelwind",
     "pays": "all",
     "type": "aa",
@@ -559,7 +559,7 @@
   },
   {
     "id": 63,
-    "image": "flakppz4o",
+    "image": "flakpz4o",
     "nom": "Flakpanzer IV Ostwind",
     "pays": "all",
     "type": "aa",
@@ -568,7 +568,7 @@
   },
   {
     "id": 64,
-    "image": "flakppz4m",
+    "image": "flakpz4m",
     "nom": "Flakpanzer IV Möbelwagen",
     "pays": "all",
     "type": "aa",
