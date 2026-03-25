@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "image": "t34m1940",
+    "nom": "T-34 (1940)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 2,
+    "image": "t34m1941",
+    "nom": "T-34 (1941)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 3,
+    "image": "t34m1942",
+    "nom": "T-34 (1942)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 4,
+    "image": "t3485",
+    "nom": "T-34-85 (1944)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 5,
+    "image": "t70",
+    "nom": "T-70",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 6,
+    "image": "t60",
+    "nom": "T-60",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 7,
+    "image": "t50",
+    "nom": "T-50",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 8,
+    "image": "t28m1934",
+    "nom": "T-28 (1934)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 9,
+    "image": "t35",
+    "nom": "T-35",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 10,
+    "image": "t26m1933",
+    "nom": "T-26 (1933)",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 11,
+    "image": "bt5",
+    "nom": "BT-5",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 12,
+    "image": "bt7",
+    "nom": "BT-7",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 13,
+    "image": "kv1",
+    "nom": "KV-1",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 14,
+    "image": "kv1s",
+    "nom": "KV-1S",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 15,
+    "image": "kv2",
+    "nom": "KV-2",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 16,
+    "image": "kv8",
+    "nom": "KV-8",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 17,
+    "image": "kv85",
+    "nom": "KV-85",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 18,
+    "image": "is1",
+    "nom": "IS-1",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 19,
+    "image": "is2",
+    "nom": "IS-2 (1944)",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 20,
+    "image": "is3",
+    "nom": "IS-3",
+    "pays": "urss",
+    "type": "clo",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 21,
+    "image": "isu122",
+    "nom": "ISU-122",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 22,
+    "image": "isu152",
+    "nom": "ISU-152",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 23,
+    "image": "su76",
+    "nom": "SU-76",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 24,
+    "image": "su85",
+    "nom": "SU-85",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 25,
+    "image": "su100",
+    "nom": "SU-100",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 26,
+    "image": "su122",
+    "nom": "SU-122",
+    "pays": "urss",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 27,
+    "image": "su152",
+    "nom": "SU-152",
+    "pays": "urss",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 28,
+    "image": "t40",
+    "nom": "T-40",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 29,
+    "image": "t80",
+    "nom": "T-80",
+    "pays": "urss",
+    "type": "cle",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 30,
+    "image": "t3457m1941",
+    "nom": "T-34-57 (1941)",
+    "pays": "urss",
+    "type": "cm",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 31,
+    "image": "pz1a",
+    "nom": "PzKpfw I Ausf. A",
+    "pays": "all",
+    "type": "cle",
+    "annee": 1934,
+    "ia": false
+  },
+  {
+    "id": 32,
+    "image": "panzer2a",
+    "nom": "PzKpfw II Ausf. A",
+    "pays": "all",
+    "type": "cle",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 33,
+    "image": "pz3a",
+    "nom": "PzKpfw III Ausf. A",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 34,
+    "image": "pz3b",
+    "nom": "PzKpfw III Ausf. B",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 35,
+    "image": "pz3e",
+    "nom": "PzKpfw III Ausf. E",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 36,
+    "image": "pz4a",
+    "nom": "PzKpfw IV Ausf. A",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 37,
+    "image": "pz4b",
+    "nom": "PzKpfw IV Ausf. B",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 38,
+    "image": "pz4c",
+    "nom": "PzKpfw IV Ausf. C",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 39,
+    "image": "pz5a",
+    "nom": "PzKpfw V Panther Ausf. A",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 40,
+    "image": "pz6h1",
+    "nom": "PzKpfw VI Tiger H1",
+    "pays": "all",
+    "type": "clo",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 41,
+    "image": "pz6b",
+    "nom": "PzKpfw VI Ausf. B Tiger II",
+    "pays": "all",
+    "type": "clo",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 42,
+    "image": "jpz4",
+    "nom": "Jagdpanzer IV",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 43,
+    "image": "jpz5",
+    "nom": "Jagdpanzer V Jagdpanther",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 44,
+    "image": "jpz6",
+    "nom": "Jagdpanzer VI Jagdtiger",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 45,
+    "image": "elefant",
+    "nom": "Jagdpanzer Elefant",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 46,
+    "image": "ferdinand",
+    "nom": "Jagdpanzer Ferdinand",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 47,
+    "image": "jpz38",
+    "nom": "Jagdpanzer 38(t) Hetzer",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 48,
+    "image": "marder2",
+    "nom": "Marder II",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 49,
+    "image": "marder3",
+    "nom": "Marder III",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 50,
+    "image": "stug3",
+    "nom": "StuG III",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 51,
+    "image": "stug4",
+    "nom": "StuG IV",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 52,
+    "image": "stuh42",
+    "nom": "StuH 42",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 53,
+    "image": "nashorn",
+    "nom": "Nashorn",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 54,
+    "image": "hummel",
+    "nom": "Hummel",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 55,
+    "image": "wespe",
+    "nom": "Wespe",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 56,
+    "image": "grilleh",
+    "nom": "Grille Ausf. H",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 57,
+    "image": "pz8",
+    "nom": "PzKpfw VIII Maus",
+    "pays": "all",
+    "type": "sl",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 58,
+    "image": "pz5d",
+    "nom": "PzKpfw V Panther Ausf. D",
+    "pays": "all",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 59,
+    "image": "pzj1",
+    "nom": "Panzerjäger I",
+    "pays": "all",
+    "type": "cdc",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 60,
+    "image": "sdkfz2511",
+    "nom": "Sd.Kfz. 251/1",
+    "pays": "all",
+    "type": "sc",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 61,
+    "image": "spz4",
+    "nom": "Sturmpanzer IV Stupa",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 62,
+    "image": "flakppz4w",
+    "nom": "Flakpanzer IV Wirbelwind",
+    "pays": "all",
+    "type": "aa",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 63,
+    "image": "flakppz4o",
+    "nom": "Flakpanzer IV Ostwind",
+    "pays": "all",
+    "type": "aa",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 64,
+    "image": "flakppz4m",
+    "nom": "Flakpanzer IV Möbelwagen",
+    "pays": "all",
+    "type": "aa",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 65,
+    "image": "spz2",
+    "nom": "Sturmpanzer II Bison",
+    "pays": "all",
+    "type": "oa",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 66,
+    "image": "m4",
+    "nom": "M4 Sherman",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 67,
+    "image": "m4a1",
+    "nom": "M4A1 Sherman",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 68,
+    "image": "m4a2",
+    "nom": "M4A2 Sherman",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 69,
+    "image": "m4a3",
+    "nom": "M4A3 Sherman",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 70,
+    "image": "m4a3e8",
+    "nom": "M4A3E8 Easy Eight",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 71,
+    "image": "m4a3e2",
+    "nom": "M4A3E2 Jumbo",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 72,
+    "image": "m3l",
+    "nom": "M3 Lee",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 73,
+    "image": "m3s",
+    "nom": "M3 Stuart",
+    "pays": "eua",
+    "type": "cle",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 74,
+    "image": "m5s",
+    "nom": "M5 Stuart",
+    "pays": "eua",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 75,
+    "image": "m24",
+    "nom": "M24 Chaffee",
+    "pays": "eua",
+    "type": "cle",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 76,
+    "image": "m26",
+    "nom": "M26 Pershing",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 77,
+    "image": "m10",
+    "nom": "M10 Wolverine",
+    "pays": "eua",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 78,
+    "image": "m18",
+    "nom": "M18 Hellcat",
+    "pays": "eua",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 79,
+    "image": "m36",
+    "nom": "M36 Jackson",
+    "pays": "eua",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 80,
+    "image": "m7",
+    "nom": "M7 Priest",
+    "pays": "eua",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 81,
+    "image": "m8",
+    "nom": "M8 Scott",
+    "pays": "eua",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 82,
+    "image": "m3gmc",
+    "nom": "M3 GMC",
+    "pays": "eua",
+    "type": "sc",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 83,
+    "image": "m22",
+    "nom": "M22 Locust",
+    "pays": "eua",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 84,
+    "image": "m3sc",
+    "nom": "M3 Scout car",
+    "pays": "eua",
+    "type": "vb",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 85,
+    "image": "t14",
+    "nom": "T14",
+    "pays": "eua",
+    "type": "clo",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 86,
+    "image": "t20",
+    "nom": "T20",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 87,
+    "image": "t23",
+    "nom": "T23",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 88,
+    "image": "t25",
+    "nom": "T25",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 89,
+    "image": "t28",
+    "nom": "Super Heavy Tank T28",
+    "pays": "eua",
+    "type": "sl",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 90,
+    "image": "t29",
+    "nom": "T29",
+    "pays": "eua",
+    "type": "clo",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 91,
+    "image": "t30",
+    "nom": "T30",
+    "pays": "eua",
+    "type": "clo",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 92,
+    "image": "t34",
+    "nom": "T34",
+    "pays": "eua",
+    "type": "clo",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 93,
+    "image": "m6",
+    "nom": "M6 Heavy",
+    "pays": "eua",
+    "type": "clo",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 94,
+    "image": "m4a3105",
+    "nom": "M4A3 105mm",
+    "pays": "eua",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 95,
+    "image": "lvta4",
+    "nom": "LVT(A)-4",
+    "pays": "eua",
+    "type": "cle",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 96,
+    "image": "matilda1",
+    "nom": "A11 Matilda Mk.I",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 97,
+    "image": "matilda2",
+    "nom": "A12 Matilda Mk.II",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 98,
+    "image": "valentine2",
+    "nom": "Valentine Mk. II",
+    "pays": "gb",
+    "type": "cm",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 99,
+    "image": "crusader1",
+    "nom": "A15 Crusader Mk. I",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 100,
+    "image": "cromwell1",
+    "nom": "A24 Cromwell Mk. I",
+    "pays": "gb",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 101,
+    "image": "comet",
+    "nom": "A34 Comet",
+    "pays": "gb",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 102,
+    "image": "churchill1",
+    "nom": "A22 Churchill Mk.I",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 103,
+    "image": "churchill2",
+    "nom": "A22 Churchill Mk.II",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 104,
+    "image": "churchill3",
+    "nom": "A22 Churchill Mk.III",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 105,
+    "image": "churchillc",
+    "nom": "A22 Churchill Crocodile",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 106,
+    "image": "centurion1",
+    "nom": "A41 Centurion Mk.I",
+    "pays": "gb",
+    "type": "cm",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 107,
+    "image": "tetrarch",
+    "nom": "A17 Tetrarch",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 108,
+    "image": "cruiser1",
+    "nom": "A9 Cruiser Mk. I",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 109,
+    "image": "bishop",
+    "nom": "Bishop",
+    "pays": "gb",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 110,
+    "image": "archer",
+    "nom": "Archer",
+    "pays": "gb",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 111,
+    "image": "achilles",
+    "nom": "M10 Achilles",
+    "pays": "gb",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 112,
+    "image": "challenger",
+    "nom": "A30 Challenger",
+    "pays": "gb",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 113,
+    "image": "lt6",
+    "nom": "Mk VI light tank",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 114,
+    "image": "blackprince",
+    "nom": "A43 Black Prince",
+    "pays": "gb",
+    "type": "clo",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 115,
+    "image": "tortoise",
+    "nom": "A39 Tortoise",
+    "pays": "gb",
+    "type": "sl",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 116,
+    "image": "tog2",
+    "nom": "TOG II",
+    "pays": "gb",
+    "type": "sl",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 117,
+    "image": "cruiser2",
+    "nom": "A10 Cruiser Mk.II",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 118,
+    "image": "cruiser3",
+    "nom": "A13 Cruiser Mk.III",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 119,
+    "image": "ac1",
+    "nom": "AC Mk.I Sentinel",
+    "pays": "au",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 120,
+    "image": "ac3",
+    "nom": "AC Mk.III Thunderbolt",
+    "pays": "au",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 121,
+    "image": "l333",
+    "nom": "Carro Armato L3/33",
+    "pays": "it",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 122,
+    "image": "l335",
+    "nom": "Carro Armato L3/35",
+    "pays": "it",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 123,
+    "image": "m1139",
+    "nom": "Carro Armato M11/39",
+    "pays": "it",
+    "type": "cm",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 124,
+    "image": "m1340",
+    "nom": "Carro Armato M13/40",
+    "pays": "it",
+    "type": "cm",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 125,
+    "image": "l333cc",
+    "nom": "Carro Armato L3/33 CC",
+    "pays": "it",
+    "type": "cle",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 126,
+    "image": "l640",
+    "nom": "Carro Armato L6/40",
+    "pays": "it",
+    "type": "cle",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 127,
+    "image": "s4732",
+    "nom": "Semovente L40 47/32",
+    "pays": "it",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 128,
+    "image": "s7518",
+    "nom": "Semovente M40 da 75/18",
+    "pays": "it",
+    "type": "oa",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 129,
+    "image": "s9053",
+    "nom": "Semovente M41M da 90/53",
+    "pays": "it",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 130,
+    "image": "s7534",
+    "nom": "Semovente M42M da 75/34",
+    "pays": "it",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 131,
+    "image": "p2640",
+    "nom": "P26/40",
+    "pays": "it",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 132,
+    "image": "ab41",
+    "nom": "AB 41",
+    "pays": "it",
+    "type": "vb",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 133,
+    "image": "ab43",
+    "nom": "AB 43",
+    "pays": "it",
+    "type": "vb",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 134,
+    "image": "s2070",
+    "nom": "Semovente da 20/70 quadruplo",
+    "pays": "it",
+    "type": "aa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 135,
+    "image": "s10525",
+    "nom": "Semovente M43 da 105/25",
+    "pays": "it",
+    "type": "oa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 136,
+    "image": "type94",
+    "nom": "Type 94 Tankette",
+    "pays": "ja",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 137,
+    "image": "type97tk",
+    "nom": "Type 97 Te-Ke",
+    "pays": "ja",
+    "type": "cle",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 138,
+    "image": "type89a",
+    "nom": "Type 89A I-Go Kō",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1931,
+    "ia": false
+  },
+  {
+    "id": 139,
+    "image": "type95hg",
+    "nom": "Type 95 Ha-Gō",
+    "pays": "ja",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 140,
+    "image": "type97ch",
+    "nom": "Type 97 Chi-Ha",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 141,
+    "image": "type97kai",
+    "nom": "Type 97 Chi-Ha Kai",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 142,
+    "image": "type1ch",
+    "nom": "Type 1 Chi-He",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 143,
+    "image": "type2km",
+    "nom": "Type 2 Ka-Mi",
+    "pays": "ja",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 144,
+    "image": "type3cn",
+    "nom": "Type 3 Chi-Nu",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 145,
+    "image": "type4ct",
+    "nom": "Type 4 Chi-To",
+    "pays": "ja",
+    "type": "cm",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 146,
+    "image": "type5nt",
+    "nom": "Type 5 Na-To",
+    "pays": "ja",
+    "type": "cdc",
+    "annee": 1945,
+    "ia": false
+  },
+  {
+    "id": 147,
+    "image": "type2hi",
+    "nom": "Type 2 Ho-I",
+    "pays": "ja",
+    "type": "oa",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 148,
+    "image": "type4hr",
+    "nom": "Type 4 Ho-Ro",
+    "pays": "ja",
+    "type": "oa",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 149,
+    "image": "type1hn1",
+    "nom": "Type 1 Ho-Ni I",
+    "pays": "ja",
+    "type": "cdc",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 150,
+    "image": "type98ts",
+    "nom": "Type 98 Ta-Se",
+    "pays": "ja",
+    "type": "aa",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 151,
+    "image": "rft",
+    "nom": "Renault FT",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1917,
+    "ia": false
+  },
+  {
+    "id": 152,
+    "image": "r35",
+    "nom": "Renault R.35",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 153,
+    "image": "r40",
+    "nom": "Renault R.40",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 154,
+    "image": "h35",
+    "nom": "Hotchkiss H.35",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 155,
+    "image": "h39",
+    "nom": "Hotchkiss H.39",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 156,
+    "image": "s35",
+    "nom": "Somua S.35",
+    "pays": "fr",
+    "type": "cm",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 157,
+    "image": "b1",
+    "nom": "Char B1",
+    "pays": "fr",
+    "type": "clo",
+    "annee": 1934,
+    "ia": false
+  },
+  {
+    "id": 158,
+    "image": "b1b",
+    "nom": "Char B1 bis",
+    "pays": "fr",
+    "type": "clo",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 159,
+    "image": "fcm36",
+    "nom": "FCM 36",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 160,
+    "image": "amr33",
+    "nom": "AMR 33",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 161,
+    "image": "amr35zt1",
+    "nom": "AMR 35 ZT 1",
+    "pays": "fr",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 162,
+    "image": "p178",
+    "nom": "Panhard 178",
+    "pays": "fr",
+    "type": "vb",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 163,
+    "image": "d2",
+    "nom": "Renault D2",
+    "pays": "fr",
+    "type": "cm",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 164,
+    "image": "l37l",
+    "nom": "Lorraine 37L Anti-char",
+    "pays": "fr",
+    "type": "cdc",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 165,
+    "image": "fcm2c",
+    "nom": "FCM 2C",
+    "pays": "fr",
+    "type": "sl",
+    "annee": 1919,
+    "ia": false
+  },
+  {
+    "id": 166,
+    "image": "tp7j",
+    "nom": "7TP jw.",
+    "pays": "pl",
+    "type": "cle",
+    "annee": 1937,
+    "ia": false
+  },
+  {
+    "id": 167,
+    "image": "tk3",
+    "nom": "TK-3",
+    "pays": "pl",
+    "type": "cle",
+    "annee": 1931,
+    "ia": false
+  },
+  {
+    "id": 168,
+    "image": "tks",
+    "nom": "TKS",
+    "pays": "pl",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 169,
+    "image": "tp7d",
+    "nom": "7TP dw.",
+    "pays": "pl",
+    "type": "cle",
+    "annee": 1935,
+    "ia": false
+  },
+  {
+    "id": 170,
+    "image": "tp10",
+    "nom": "10TP",
+    "pays": "pl",
+    "type": "cle",
+    "annee": 0,
+    "ia": false
+  },
+  {
+    "id": 171,
+    "image": "lt35",
+    "nom": "LT vz. 35",
+    "pays": "ts",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 172,
+    "image": "lt38",
+    "nom": "LT vz. 38",
+    "pays": "ts",
+    "type": "cle",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 173,
+    "image": "lt34",
+    "nom": "LT vz. 34",
+    "pays": "ts",
+    "type": "cle",
+    "annee": 1934,
+    "ia": false
+  },
+  {
+    "id": 174,
+    "image": "ahiv",
+    "nom": "AH-IV",
+    "pays": "ts",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 175,
+    "image": "mu4",
+    "nom": "MU-4",
+    "pays": "ts",
+    "type": "cle",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 176,
+    "image": "cl6",
+    "nom": "Carden Loyd Mk.VI",
+    "pays": "gb",
+    "type": "cle",
+    "annee": 1927,
+    "ia": false
+  },
+  {
+    "id": 177,
+    "image": "dafm39",
+    "nom": "DAF M39",
+    "pays": "pb",
+    "type": "vb",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 178,
+    "image": "crusader3aa",
+    "nom": "A15 Crusader III AA Mk.I",
+    "pays": "gb",
+    "type": "aa",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 179,
+    "image": "to1",
+    "nom": "38M Toldi I",
+    "pays": "ho",
+    "type": "cle",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 180,
+    "image": "to2a",
+    "nom": "42M Toldi IIa",
+    "pays": "ho",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 181,
+    "image": "tu1",
+    "nom": "40M Turán I",
+    "pays": "ho",
+    "type": "cm",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 182,
+    "image": "tu2",
+    "nom": "41M Turán II",
+    "pays": "ho",
+    "type": "cm",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 183,
+    "image": "z1",
+    "nom": "44M Zrínyi I",
+    "pays": "ho",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 184,
+    "image": "r1",
+    "nom": "R-1",
+    "pays": "ro",
+    "type": "cle",
+    "annee": 1936,
+    "ia": false
+  },
+  {
+    "id": 185,
+    "image": "tacam2",
+    "nom": "TACAM R-2",
+    "pays": "ro",
+    "type": "cdc",
+    "annee": 1944,
+    "ia": false
+  },
+  {
+    "id": 186,
+    "image": "tacam60",
+    "nom": "TACAM T-60",
+    "pays": "ro",
+    "type": "cdc",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 187,
+    "image": "strv21",
+    "nom": "Strv M31",
+    "pays": "su",
+    "type": "cm",
+    "annee": 1933,
+    "ia": false
+  },
+  {
+    "id": 188,
+    "image": "pbil39",
+    "nom": "Pbil m/39 Lynx",
+    "pays": "su",
+    "type": "vb",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 189,
+    "image": "bt42",
+    "nom": "BT-42",
+    "pays": "fi",
+    "type": "oa",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 190,
+    "image": "strv38",
+    "nom": "Strv m/38",
+    "pays": "su",
+    "type": "cle",
+    "annee": 1939,
+    "ia": false
+  },
+  {
+    "id": 191,
+    "image": "strv40",
+    "nom": "Strv m/40",
+    "pays": "su",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 192,
+    "image": "strv41",
+    "nom": "Strv m/41",
+    "pays": "su",
+    "type": "cle",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 193,
+    "image": "ram1",
+    "nom": "Ram Mk.I",
+    "pays": "ca",
+    "type": "cm",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 194,
+    "image": "ram2",
+    "nom": "Ram Mk.II",
+    "pays": "ca",
+    "type": "cm",
+    "annee": 1942,
+    "ia": false
+  },
+  {
+    "id": 195,
+    "image": "amr35zt3",
+    "nom": "AMR 35 ZT 3",
+    "pays": "fr",
+    "type": "cdc",
+    "annee": 1938,
+    "ia": false
+  },
+  {
+    "id": 196,
+    "image": "bob",
+    "nom": "Bob Semple",
+    "pays": "nz",
+    "type": "cle",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 197,
+    "image": "sarc4a",
+    "nom": "SARC Mk.IVA",
+    "pays": "as",
+    "type": "vb",
+    "annee": 1943,
+    "ia": false
+  },
+  {
+    "id": 198,
+    "image": "sau40",
+    "nom": "SOMUA S-40",
+    "pays": "fr",
+    "type": "cdc",
+    "annee": 1940,
+    "ia": false
+  },
+  {
+    "id": 199,
+    "image": "zis30",
+    "nom": "ZiS 30",
+    "pays": "urss",
+    "type": "cdc",
+    "annee": 1941,
+    "ia": false
+  },
+  {
+    "id": 200,
+    "image": "pvlvv42",
+    "nom": "Pvlvv fm/42",
+    "pays": "su",
+    "type": "aa",
+    "annee": 0,
+    "ia": false
+  }
+]
